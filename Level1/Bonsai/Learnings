@@ -1,0 +1,5 @@
+> To create identical boxes I create a single a single class element and use the style attribute in HTML to set the positions on the page
+> divs import class and ID elements
+> sup --> superscript    sub --> subscript
+> <hr> for horzontal rule
+> get bullets and text in a list differnt colors by li {list-style: none} and li::before{content:'.'; color: blue}
